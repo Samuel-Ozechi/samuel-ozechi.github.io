@@ -1,4 +1,4 @@
-# Samuel Ozechi | AI Engineer & Researcher
+# Samuel Ozechi | AI/ML Engineer & Researcher
 **Personal Portfolio & Professional Site**
 
 This repository contains the source code for my personal website, hosted at [samuel-ozechi.github.io](https://samuel-ozechi.github.io). It serves as a centralized hub for my engineering projects, research publications, and technical writing.
